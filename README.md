@@ -1,30 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is a static website for a fly fisherman looking to broaden his clientele and establish an online presence.
 
-## Getting Started
+## Setup Instructions
 
-First, run the development server:
+1. ```Fork``` [this repository](https://github.com/hannahtrask/flyfishingwithdale.git)
+2. ```Clone``` it down to your local machine with ```<your SSH Key>```
+3. Change into your directory with ```cd movie-app```
+4. Run ```npm install``` to compile the application
+5. Run ```npm start``` or ```yarn dev``` to see the app running locally
+6. run ```<your text editor> .``` to see the code in your text editor
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- ```Next.js```
+- ```Javascript``` using the ```React Library```
+- ```Sass``` (or SCSS)
+- ```NPM```
